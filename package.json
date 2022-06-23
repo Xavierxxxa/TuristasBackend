@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "json-server --watch ./db.json",
+    "start-auth": "nodemon server.js"
+  }
+}
