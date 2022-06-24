@@ -1,124 +1,113 @@
 {
-  "turistas": [
+ "groups": [
     {
       "id": 1,
-      "cpf": "43702853804",
-      "Nome": "Xavier",
-      "DataNascimento": "13/01/2000",
-      "Sexo": "Masculino",
-      "Celular": "972884044"
+      "place": "Roma Itália",
+      "imageUrl": "group-1.jpg",
+      "guide": {
+        "id": 2,
+        "document": "23702853802",
+        "name": "André Ferreira",
+        "cellphone": "975342324",
+        "city": "Rio de Janeiro"
+      },
+      "turists": []
     },
     {
       "id": 2,
-      "cpf": "53702853804",
-      "Nome": "Davi",
-      "DataNascimento": "13/05/2000",
-      "Sexo": "Masculino",
-      "Celular": "9753423235"
+      "place": "Jericoacoara (Fortaleza)",
+      "imageUrl": "group-2.jpg",
+      "guide": {
+        "id": 3,
+        "document": "33702853803",
+        "name": "Lucas Silva",
+        "cellphone": "97284353454",
+        "city": "Belo Horizonte"
+      },
+      "turists": []
     },
     {
       "id": 3,
-      "Nome": "Henrique",
-      "cpf": "63702853804",
-      "DataNascimento": "08/08/2000",
-      "Sexo": "Masculino",
-      "Celular": "97284353454"
+      "place": "Los Angeles (California)",
+      "imageUrl": "group-3.jpg",
+      "guide": {
+        "id": 4,
+        "document": "43702843804",
+        "name": "Rebeca Lima",
+        "cellphone": "902784023",
+        "city": "Porto Alegre"
+      },
+      "turists": []
     },
     {
       "id": 4,
-      "cpf": "73702853804",
-      "Nome": "Gustavo",
-      "DataNascimento": "20/05/2000",
-      "Sexo": "Masculino",
-      "Celular": "902784023"
+      "place": "Bora Bora (Polinésia Francesa)",
+      "imageUrl": "group-4.jpg",
+      "guide": {
+        "id": 5,
+        "document": "53702853805",
+        "name": "Manuella Souza",
+        "cellphone": "972544054",
+        "city": "Salvador"
+      },
+      "turists": []
     },
     {
       "id": 5,
-      "cpf": "83702853804",
-      "Nome": "Christian",
-      "DataNascimento": "14/05/2000",
-      "Sexo": "Masculino",
-      "Celular": "972544054"
+      "place": "Maui (Havaí)",
+      "imageUrl": "group-5.jpg",
+      "guide": {
+        "id": 6,
+        "document": "53702853805",
+        "name": "Roberto Gomes",
+        "cellphone": "972544054",
+        "city": "Salvador"
+      },
+      "turists": []
     },
     {
       "id": 6,
-      "cpf": "43702853434",
-      "Nome": "XavierGabriel",
-      "DataNascimento": "14/02/2002",
-      "Sexo": "Masculino",
-      "Celular": "972884011"
+      "place": "Barcelona (Espanha)",
+      "imageUrl": "group-6.jpg",
+      "guide": {
+        "id": 7,
+        "document": "53702853805",
+        "name": "Isabella Nunes",
+        "cellphone": "972544054",
+        "city": "Salvador"
+      },
+      "turists": []
+    },
+    {
+      "id": 7,
+      "place": "Campos do Jordão",
+      "imageUrl": "campos.jpg",
+      "guide": {
+        "id": 8,
+        "document": "51189115832",
+        "name": "Davi Silva Costa",
+        "cellphone": "957583654",
+        "city": "São Paulo"
+      },
+      "turists": []
     }
-  ],
-  "guias": [
+],
+ "locals": [
     {
       "id": 1,
-      "cpf": "13702853801",
-      "Nome": "Paulo Andr�",
-      "Celular": "972884044",
-      "Cidade": "S�o Paulo"
-    },
-    {
-      "id": 2,
-      "cpf": "23702853802",
-      "Nome": "Davison",
-      "Celular": "975342324",
-      "Cidade": "Rio de Janeiro"
-    },
-    {
-      "id": 3,
-      "cpf": "33702853803",
-      "Nome": "Henri",
-      "Celular": "97284353454",
-      "Cidade": "Belo Horizonte"
-    },
-    {
-      "id": 4,
-      "cpf": "43702843804",
-      "Nome": "Gustavison",
-      "Celular": "902784023",
-      "Cidade": "Porto Alegre"
-    },
-    {
-      "id": 5,
-      "cpf": "53702853805",
-      "Nome": "Christopher",
-      "Celular": "972544054",
-      "Cidade": "Salvador"
-    }
-  ],
-  "grupos": [
-    {
-      "id": 1,
-      "idGrupo": "G1",
-      "Turistas": [
-        "43702853804",
-        "53702853804",
-        "63702853804",
-        "73702853804",
-        "83702853804"
-      ],
-      "guia": "23702853802"
-    },
-    {
-      "id": 2,
-      "idGrupo": "G2",
-      "Turistas": [
-        "43702853804",
-        "53702853804",
-        "83702853804"
-      ],
-      "guia": "33702853803"
-    }
-  ],
-  "Locais": [
-    {
-      "id": 1,
-      "posicao": [
+      "position": [
         "-23.611487",
         "-46.767867"
       ],
-      "turista": "43702853804",
-      "DataHora": "19h19-03/06/2022"
+      "turist": {
+        "id": 2,
+        "document": "53702853804",
+        "name": "Davi",
+        "birthDate": "13/05/2000",
+        "genrer": "Masculino",
+        "cellphone": "9753423235"
+      },
+      "date": "19h19-03/06/2022"
     }
   ]
 }
