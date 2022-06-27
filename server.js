@@ -135,7 +135,8 @@ server.use(/^(?!\/auth).*$/,  (req, res, next) => {
 
 server.use(router)
 
-server.listen(8000, () => {
-  console.log('Run Auth API Server')
+server.listen(process.env.PORT || 8000, (err) => { 
+	if (err) { return console.log(err) }
+	console.log('Servidor rodando')
 })
 
