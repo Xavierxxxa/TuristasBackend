@@ -14,6 +14,7 @@
     },
     {
       "id": 2,
+      "idGrupo": 1,
       "name": "André Ferreira",
       "email": "andre@gmail.com",
       "password": "andre",
@@ -22,10 +23,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "975342324",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 3,
+      "idGrupo": 6,
       "name": "Lucas Silva",
       "email": "lucas@gmail.com",
       "password": "lucas",
@@ -34,10 +37,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "972843534",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 4,
+      "idGrupo": 5,
       "name": "Manuella Souza",
       "email": "manuella@gmail.com",
       "password": "manuella",
@@ -46,10 +51,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Feminino",
       "cellphone": "972544054",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 5,
+      "idGrupo": 7,
       "name": "Roberto Gomes",
       "email": "roberto@gmail.com",
       "password": "roberto",
@@ -58,10 +65,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "979842054",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 6,
+      "idGrupo": 4,
       "name": "Isabella Nunes",
       "email": "isabella@gmail.com",
       "password": "isabella",
@@ -70,10 +79,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Feminino",
       "cellphone": "976822054",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 7,
+      "idGrupo": 3,
       "name": "Davi Costa",
       "email": "davi@gmail.com",
       "password": "davi",
@@ -82,10 +93,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "976457054",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 8,
+      "idGrupo": 2,
       "name": "Leandro Almeida",
       "email": "leandro@gmail.com",
       "password": "leandro",
@@ -94,10 +107,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "976457454",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 9,
+      "idGrupo": 7,
       "name": "Robles Gay",
       "email": "roblesgay@zytrex.com",
       "password": "Cathleen",
@@ -106,10 +121,12 @@
       "birthDate": "2020-04-10",
       "genrer": "Feminino",
       "cellphone": "(909) 577-2699",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 10,
+      "idGrupo": 7,
       "name": "Hodge Brock",
       "email": "hodgebrock@zytrex.com",
       "password": "Graciela",
@@ -118,10 +135,12 @@
       "birthDate": "2019-10-02",
       "genrer": "Feminino",
       "cellphone": "(946) 503-3500",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 11,
+      "idGrupo": 7,
       "name": "Nadia Lopez",
       "email": "nadialopez@zytrex.com",
       "password": "Stefanie",
@@ -130,10 +149,12 @@
       "birthDate": "2021-07-05",
       "genrer": "Feminino",
       "cellphone": "(941) 420-3340",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 12,
+      "idGrupo": 7,
       "name": "Berger Marks",
       "email": "bergermarks@zytrex.com",
       "password": "Gordon",
@@ -142,10 +163,12 @@
       "birthDate": "2018-10-07",
       "genrer": "Masculino",
       "cellphone": "(900) 595-2455",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 13,
+      "idGrupo": 7,
       "name": "Conrad Sosa",
       "email": "conradsosa@zytrex.com",
       "password": "Gonzalez",
@@ -154,10 +177,12 @@
       "birthDate": "2016-08-03",
       "genrer": "Masculino",
       "cellphone": "(860) 525-3421",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 14,
+      "idGrupo": 7,
       "name": "Dorthy Boyd",
       "email": "dorthyboyd@zytrex.com",
       "password": "Ewing",
@@ -166,10 +191,12 @@
       "birthDate": "2022-02-15",
       "genrer": "Masculino",
       "cellphone": "(894) 529-3022",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 15,
+      "idGrupo": 7,
       "name": "Verna Anthony",
       "email": "vernaanthony@zytrex.com",
       "password": "Leanne",
@@ -178,10 +205,12 @@
       "birthDate": "2022-04-04",
       "genrer": "Feminino",
       "cellphone": "(834) 505-3107",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 16,
+      "idGrupo": 7,
       "name": "Cervantes Curry",
       "email": "cervantescurry@zytrex.com",
       "password": "Dixie",
@@ -190,10 +219,12 @@
       "birthDate": "2014-04-21",
       "genrer": "Feminino",
       "cellphone": "(950) 433-2847",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 17,
+      "idGrupo": 7,
       "name": "Gloria Yang",
       "email": "gloriayang@zytrex.com",
       "password": "Cecelia",
@@ -202,10 +233,12 @@
       "birthDate": "2016-08-08",
       "genrer": "Feminino",
       "cellphone": "(854) 514-2011",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 18,
+      "idGrupo": 7,
       "name": "Maxine Campbell",
       "email": "maxinecampbell@zytrex.com",
       "password": "Jefferson",
@@ -214,10 +247,12 @@
       "birthDate": "2018-04-08",
       "genrer": "Masculino",
       "cellphone": "(804) 462-3074",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 19,
+      "idGrupo": 2,
       "name": "Shawn Cash",
       "email": "shawncash@zytrex.com",
       "password": "Harris",
@@ -226,10 +261,12 @@
       "birthDate": "2018-08-13",
       "genrer": "Masculino",
       "cellphone": "(926) 424-3153",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 20,
+      "idGrupo": 2,
       "name": "Eleanor Cunningham",
       "email": "eleanorcunningham@zytrex.com",
       "password": "Pollard",
@@ -238,10 +275,12 @@
       "birthDate": "2018-01-31T05:54:19 +02:00",
       "genrer": "Masculino",
       "cellphone": "(913) 483-2310",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 21,
+      "idGrupo": 2,
       "name": "Charlene Simmons",
       "email": "charlenesimmons@zytrex.com",
       "password": "Celia",
@@ -250,10 +289,12 @@
       "birthDate": "2018-08-13",
       "genrer": "Feminino",
       "cellphone": "(873) 530-3247",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 22,
+      "idGrupo": 2,
       "name": "Villarreal Hernandez",
       "email": "villarrealhernandez@zytrex.com",
       "password": "Schmidt",
@@ -262,10 +303,12 @@
       "birthDate": "2022-01-03",
       "genrer": "Masculino",
       "cellphone": "(919) 419-2507",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 23,
+      "idGrupo": 2,
       "name": "Gwendolyn Franklin",
       "email": "gwendolynfranklin@zytrex.com",
       "password": "Emerson",
@@ -274,10 +317,12 @@
       "birthDate": "2021-05-24",
       "genrer": "Masculino",
       "cellphone": "(979) 581-3877",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 24,
+      "idGrupo": 2,
       "name": "Ada Burgess",
       "email": "adaburgess@zytrex.com",
       "password": "Whitehead",
@@ -286,10 +331,12 @@
       "birthDate": "2020-04-30",
       "genrer": "Masculino",
       "cellphone": "(987) 437-2765",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 25,
+      "idGrupo": 2,
       "name": "Wong Lambert",
       "email": "wonglambert@zytrex.com",
       "password": "Brock",
@@ -298,10 +345,12 @@
       "birthDate": "2014-03-15",
       "genrer": "Masculino",
       "cellphone": "(966) 590-3063",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 26,
+      "idGrupo": 1,
       "name": "Ellen Chen",
       "email": "ellenchen@zytrex.com",
       "password": "Quinn",
@@ -310,10 +359,12 @@
       "birthDate": "2016-12-20T07:21:56 +02:00",
       "genrer": "Masculino",
       "cellphone": "(862) 442-2754",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 27,
+      "idGrupo": 1,
       "name": "Janelle Reeves",
       "email": "janellereeves@zytrex.com",
       "password": "Cook",
@@ -322,10 +373,12 @@
       "birthDate": "2021-08-20",
       "genrer": "Masculino",
       "cellphone": "(806) 582-2272",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 28,
+      "idGrupo": 1,
       "name": "Krystal May",
       "email": "krystalmay@zytrex.com",
       "password": "Colon",
@@ -334,10 +387,12 @@
       "birthDate": "2020-03-18",
       "genrer": "Masculino",
       "cellphone": "(833) 550-2691",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 29,
+      "idGrupo": 1,
       "name": "Estes Ball",
       "email": "estesball@zytrex.com",
       "password": "Ortiz",
@@ -346,10 +401,12 @@
       "birthDate": "2019-07-02",
       "genrer": "Masculino",
       "cellphone": "(946) 418-3381",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 30,
+      "idGrupo": 1,
       "name": "Robinson Albert",
       "email": "robinsonalbert@zytrex.com",
       "password": "Williamson",
@@ -358,10 +415,12 @@
       "birthDate": "2017-02-25",
       "genrer": "Masculino",
       "cellphone": "(925) 591-3548",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 31,
+      "idGrupo": 3,
       "name": "Shelton Nielsen",
       "email": "sheltonnielsen@zytrex.com",
       "password": "Richmond",
@@ -370,10 +429,12 @@
       "birthDate": "2015-05-02",
       "genrer": "Masculino",
       "cellphone": "(920) 494-3831",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 32,
+      "idGrupo": 3,
       "name": "Page Sutton",
       "email": "pagesutton@zytrex.com",
       "password": "Eula",
@@ -382,10 +443,12 @@
       "birthDate": "2020-10-12",
       "genrer": "Feminino",
       "cellphone": "(892) 497-3902",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 33,
+      "idGrupo": 3,
       "name": "Ivy Bailey",
       "email": "ivybailey@zytrex.com",
       "password": "Wilson",
@@ -394,10 +457,12 @@
       "birthDate": "2021-01-28",
       "genrer": "Masculino",
       "cellphone": "(916) 516-2149",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 34,
+      "idGrupo": 4,
       "name": "Carlene Ramos",
       "email": "carleneramos@zytrex.com",
       "password": "Lancaster",
@@ -406,10 +471,12 @@
       "birthDate": "2015-04-09",
       "genrer": "Masculino",
       "cellphone": "(812) 589-2751",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 35,
+      "idGrupo": 4,
       "name": "Margret Cherry",
       "email": "margretcherry@zytrex.com",
       "password": "Hattie",
@@ -418,10 +485,12 @@
       "birthDate": "2016-08-09",
       "genrer": "Feminino",
       "cellphone": "(898) 599-3395",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 36,
+      "idGrupo": 4,
       "name": "Gray Robinson",
       "email": "grayrobinson@zytrex.com",
       "password": "Christensen",
@@ -430,10 +499,12 @@
       "birthDate": "2016-08-24",
       "genrer": "Masculino",
       "cellphone": "(864) 476-2010",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 37,
+      "idGrupo": 4,
       "name": "Frankie Gates",
       "email": "frankiegates@zytrex.com",
       "password": "Maggie",
@@ -442,10 +513,12 @@
       "birthDate": "2019-10-02",
       "genrer": "Feminino",
       "cellphone": "(963) 415-3184",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 38,
+      "idGrupo": 4,
       "name": "Acevedo Justice",
       "email": "acevedojustice@zytrex.com",
       "password": "Angelica",
@@ -454,10 +527,12 @@
       "birthDate": "2019-12-07",
       "genrer": "Feminino",
       "cellphone": "(968) 501-3659",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 39,
+      "idGrupo": 4,
       "name": "Susana Dillard",
       "email": "susanadillard@zytrex.com",
       "password": "Marks",
@@ -466,10 +541,12 @@
       "birthDate": "2019-11-12",
       "genrer": "Masculino",
       "cellphone": "(950) 582-3793",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 40,
+      "idGrupo": 5,
       "name": "Maureen Webb",
       "email": "maureenwebb@zytrex.com",
       "password": "Buckner",
@@ -478,10 +555,12 @@
       "birthDate": "2020-04-02",
       "genrer": "Masculino",
       "cellphone": "(937) 456-2474",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 41,
+      "idGrupo": 5,
       "name": "Elva Craig",
       "email": "elvacraig@zytrex.com",
       "password": "Castillo",
@@ -490,10 +569,12 @@
       "birthDate": "2016-12-07T10:44:22 +02:00",
       "genrer": "Masculino",
       "cellphone": "(871) 565-2913",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 42,
+      "idGrupo": 5,
       "name": "Rhea Nixon",
       "email": "rheanixon@zytrex.com",
       "password": "Leonor",
@@ -502,10 +583,12 @@
       "birthDate": "2019-11-05",
       "genrer": "Feminino",
       "cellphone": "(822) 494-3010",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 43,
+      "idGrupo": 5,
       "name": "Houston Holman",
       "email": "houstonholman@zytrex.com",
       "password": "Rowena",
@@ -514,10 +597,12 @@
       "birthDate": "2015-11-11T02:45:41 +02:00",
       "genrer": "Feminino",
       "cellphone": "(931) 463-2851",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 44,
+      "idGrupo": 5,
       "name": "Whitaker Kirby",
       "email": "whitakerkirby@zytrex.com",
       "password": "Corinne",
@@ -526,10 +611,12 @@
       "birthDate": "2015-12-18T11:18:52 +02:00",
       "genrer": "Feminino",
       "cellphone": "(840) 529-2890",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 45,
+      "idGrupo": 6,
       "name": "Barker Acosta",
       "email": "barkeracosta@zytrex.com",
       "password": "Miranda",
@@ -538,10 +625,12 @@
       "birthDate": "2017-01-03T01:38:53 +02:00",
       "genrer": "Feminino",
       "cellphone": "(945) 584-2667",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 46,
+      "idGrupo": 6,
       "name": "Marjorie Carpenter",
       "email": "marjoriecarpenter@zytrex.com",
       "password": "Beatrice",
@@ -550,10 +639,12 @@
       "birthDate": "2020-09-12",
       "genrer": "Feminino",
       "cellphone": "(868) 413-3411",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 47,
+      "idGrupo": 6,
       "name": "Barnett Harding",
       "email": "barnettharding@zytrex.com",
       "password": "Ochoa",
@@ -562,10 +653,12 @@
       "birthDate": "2021-06-30",
       "genrer": "Masculino",
       "cellphone": "(846) 523-3643",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 48,
+      "idGrupo": 6,
       "name": "Tonia Mayer",
       "email": "toniamayer@zytrex.com",
       "password": "Bertie",
@@ -574,10 +667,12 @@
       "birthDate": "2015-05-31",
       "genrer": "Feminino",
       "cellphone": "(865) 567-2362",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 49,
+      "idGrupo": 6,
       "name": "Bryant Horton",
       "email": "bryanthorton@zytrex.com",
       "password": "Trina",
@@ -586,10 +681,12 @@
       "birthDate": "2016-11-08T01:57:52 +02:00",
       "genrer": "Feminino",
       "cellphone": "(828) 451-2669",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 50,
+      "idGrupo": 6,
       "name": "Cantrell Doyle",
       "email": "cantrelldoyle@zytrex.com",
       "password": "Lacy",
@@ -598,10 +695,12 @@
       "birthDate": "2018-05-04",
       "genrer": "Feminino",
       "cellphone": "(999) 501-3770",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 51,
+      "idGrupo": 6,
       "name": "Deanna Stone",
       "email": "deannastone@zytrex.com",
       "password": "Charity",
@@ -610,10 +709,12 @@
       "birthDate": "2019-02-16T10:18:49 +02:00",
       "genrer": "Feminino",
       "cellphone": "(962) 584-3695",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 52,
+      "idGrupo": 6,
       "name": "Cora Bryant",
       "email": "corabryant@zytrex.com",
       "password": "Knowles",
@@ -622,10 +723,12 @@
       "birthDate": "2022-04-02",
       "genrer": "Masculino",
       "cellphone": "(898) 518-2315",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 53,
+      "idGrupo": 6,
       "name": "Estela Cobb",
       "email": "estelacobb@zytrex.com",
       "password": "Aurelia",
@@ -634,7 +737,8 @@
       "birthDate": "2019-12-14",
       "genrer": "Feminino",
       "cellphone": "(947) 506-2571",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 54,
@@ -646,7 +750,8 @@
       "birthDate": "2015-05-01",
       "genrer": "Feminino",
       "cellphone": "(907) 448-3961",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 55,
@@ -658,7 +763,8 @@
       "birthDate": "2021-08-07",
       "genrer": "Feminino",
       "cellphone": "(812) 556-3211",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 56,
@@ -670,7 +776,8 @@
       "birthDate": "2021-11-08",
       "genrer": "Masculino",
       "cellphone": "(993) 551-2091",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
     },
     {
       "id": 57,
@@ -682,7 +789,9 @@
       "birthDate": "2021-04-06",
       "genrer": "Feminino",
       "cellphone": "(877) 405-2235",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true,
+      "idGrupo": 3
     },
     {
       "id": 58,
@@ -694,7 +803,59 @@
       "birthDate": "2019-03-08",
       "genrer": "Masculino",
       "cellphone": "(956) 555-3260",
-      "isAdmin": false
+      "isAdmin": false,
+      "isActive": true
+    },
+    {
+      "name": "Ronaldo Fernando",
+      "password": "Ronaldo123",
+      "document": "511.891.158-32",
+      "email": "andreco.costa@gmail.com",
+      "cellphone": "1139327124",
+      "genrer": "Masculino",
+      "birthDate": "2022-06-07T03:00:00.000Z",
+      "tipo": "G",
+      "isAdmin": false,
+      "isActive": true,
+      "id": 59
+    },
+    {
+      "name": "Fernando Silva",
+      "password": "Fernando1",
+      "document": "511.891.158-32",
+      "email": "fernando@hotmail.com",
+      "genrer": "Masculino",
+      "birthDate": "2022-06-28T03:00:00.000Z",
+      "tipo": "T",
+      "isAdmin": false,
+      "isActive": true,
+      "id": 60,
+      "idGrupo": 1
+    },
+    {
+      "name": "TuristaTeste",
+      "password": "Teste123",
+      "document": "511.891.158-32",
+      "email": "teste@hotmail.com",
+      "genrer": "Masculino",
+      "birthDate": "2022-06-20T03:00:00.000Z",
+      "tipo": "T",
+      "isAdmin": false,
+      "isActive": true,
+      "id": 61,
+      "idGrupo": 3
+    },
+    {
+      "name": "TesteTurista2",
+      "password": "Teste123",
+      "tipo": "T",
+      "document": "511.891.158-32",
+      "email": "turiste2@hotmail.com",
+      "genrer": "Masculino",
+      "birthDate": "2022-06-30T03:00:00.000Z",
+      "isAdmin": false,
+      "isActive": true,
+      "id": 62
     }
   ],
   "groups": [
@@ -704,6 +865,7 @@
       "imageUrl": "group-1.jpg",
       "guide": {
         "id": 2,
+        "idGrupo": 1,
         "name": "André Ferreira",
         "email": "andre@gmail.com",
         "password": "andre",
@@ -712,11 +874,13 @@
         "birthDate": "16/01/1978",
         "genrer": "Masculino",
         "cellphone": "975342324",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 26,
+          "idGrupo": 1,
           "name": "Ellen Chen",
           "email": "ellenchen@zytrex.com",
           "password": "Quinn",
@@ -725,10 +889,12 @@
           "birthDate": "2016-12-20T07:21:56 +02:00",
           "genrer": "Masculino",
           "cellphone": "(862) 442-2754",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 27,
+          "idGrupo": 1,
           "name": "Janelle Reeves",
           "email": "janellereeves@zytrex.com",
           "password": "Cook",
@@ -737,10 +903,12 @@
           "birthDate": "2021-08-20",
           "genrer": "Masculino",
           "cellphone": "(806) 582-2272",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 28,
+          "idGrupo": 1,
           "name": "Krystal May",
           "email": "krystalmay@zytrex.com",
           "password": "Colon",
@@ -749,10 +917,12 @@
           "birthDate": "2020-03-18",
           "genrer": "Masculino",
           "cellphone": "(833) 550-2691",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 29,
+          "idGrupo": 1,
           "name": "Estes Ball",
           "email": "estesball@zytrex.com",
           "password": "Ortiz",
@@ -761,10 +931,12 @@
           "birthDate": "2019-07-02",
           "genrer": "Masculino",
           "cellphone": "(946) 418-3381",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 30,
+          "idGrupo": 1,
           "name": "Robinson Albert",
           "email": "robinsonalbert@zytrex.com",
           "password": "Williamson",
@@ -773,7 +945,20 @@
           "birthDate": "2017-02-25",
           "genrer": "Masculino",
           "cellphone": "(925) 591-3548",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
+        },
+        {
+          "id": 60,
+          "password": "Fernando1",
+          "document": "511.891.158-32",
+          "email": "fernando@hotmail.com",
+          "genrer": "Masculino",
+          "idGrupo": 1,
+          "name": "Fernando Silva",
+          "tipo": "T",
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     },
@@ -783,6 +968,7 @@
       "imageUrl": "group-2.jpg",
       "guide": {
         "id": 8,
+        "idGrupo": 2,
         "name": "Leandro Almeida",
         "email": "leandro@gmail.com",
         "password": "leandro",
@@ -791,11 +977,13 @@
         "birthDate": "05/02/1975",
         "genrer": "Masculino",
         "cellphone": "976457454",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 19,
+          "idGrupo": 2,
           "name": "Shawn Cash",
           "email": "shawncash@zytrex.com",
           "password": "Harris",
@@ -804,10 +992,12 @@
           "birthDate": "2018-08-13",
           "genrer": "Masculino",
           "cellphone": "(926) 424-3153",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 20,
+          "idGrupo": 2,
           "name": "Eleanor Cunningham",
           "email": "eleanorcunningham@zytrex.com",
           "password": "Pollard",
@@ -816,10 +1006,12 @@
           "birthDate": "2018-01-31T05:54:19 +02:00",
           "genrer": "Masculino",
           "cellphone": "(913) 483-2310",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 21,
+          "idGrupo": 2,
           "name": "Charlene Simmons",
           "email": "charlenesimmons@zytrex.com",
           "password": "Celia",
@@ -828,10 +1020,12 @@
           "birthDate": "2018-08-13",
           "genrer": "Feminino",
           "cellphone": "(873) 530-3247",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 22,
+          "idGrupo": 2,
           "name": "Villarreal Hernandez",
           "email": "villarrealhernandez@zytrex.com",
           "password": "Schmidt",
@@ -840,10 +1034,12 @@
           "birthDate": "2022-01-03",
           "genrer": "Masculino",
           "cellphone": "(919) 419-2507",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 23,
+          "idGrupo": 2,
           "name": "Gwendolyn Franklin",
           "email": "gwendolynfranklin@zytrex.com",
           "password": "Emerson",
@@ -852,10 +1048,12 @@
           "birthDate": "2021-05-24",
           "genrer": "Masculino",
           "cellphone": "(979) 581-3877",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 24,
+          "idGrupo": 2,
           "name": "Ada Burgess",
           "email": "adaburgess@zytrex.com",
           "password": "Whitehead",
@@ -864,10 +1062,12 @@
           "birthDate": "2020-04-30",
           "genrer": "Masculino",
           "cellphone": "(987) 437-2765",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 25,
+          "idGrupo": 2,
           "name": "Wong Lambert",
           "email": "wonglambert@zytrex.com",
           "password": "Brock",
@@ -876,7 +1076,8 @@
           "birthDate": "2014-03-15",
           "genrer": "Masculino",
           "cellphone": "(966) 590-3063",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     },
@@ -886,6 +1087,7 @@
       "imageUrl": "group-3.jpg",
       "guide": {
         "id": 7,
+        "idGrupo": 3,
         "name": "Davi Costa",
         "email": "davi@gmail.com",
         "password": "davi",
@@ -894,11 +1096,13 @@
         "birthDate": "05/02/1982",
         "genrer": "Masculino",
         "cellphone": "976457054",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 31,
+          "idGrupo": 3,
           "name": "Shelton Nielsen",
           "email": "sheltonnielsen@zytrex.com",
           "password": "Richmond",
@@ -907,10 +1111,12 @@
           "birthDate": "2015-05-02",
           "genrer": "Masculino",
           "cellphone": "(920) 494-3831",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 32,
+          "idGrupo": 3,
           "name": "Page Sutton",
           "email": "pagesutton@zytrex.com",
           "password": "Eula",
@@ -919,10 +1125,12 @@
           "birthDate": "2020-10-12",
           "genrer": "Feminino",
           "cellphone": "(892) 497-3902",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 33,
+          "idGrupo": 3,
           "name": "Ivy Bailey",
           "email": "ivybailey@zytrex.com",
           "password": "Wilson",
@@ -931,7 +1139,34 @@
           "birthDate": "2021-01-28",
           "genrer": "Masculino",
           "cellphone": "(916) 516-2149",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
+        },
+        {
+          "id": 57,
+          "password": "Irene",
+          "birthDate": "2021-04-06",
+          "cellphone": "(877) 405-2235",
+          "document": "53702853805",
+          "email": "lottmontgomery@zytrex.com",
+          "genrer": "Feminino",
+          "idGrupo": 3,
+          "name": "Lott Montgomery",
+          "tipo": "T",
+          "isAdmin": false,
+          "isActive": true
+        },
+        {
+          "id": 61,
+          "password": "Teste123",
+          "document": "511.891.158-32",
+          "email": "teste@hotmail.com",
+          "genrer": "Masculino",
+          "idGrupo": 3,
+          "name": "TuristaTeste",
+          "tipo": "T",
+          "isAdmin": false,
+          "isActive": false
         }
       ]
     },
@@ -941,6 +1176,7 @@
       "imageUrl": "group-4.jpg",
       "guide": {
         "id": 6,
+        "idGrupo": 4,
         "name": "Isabella Nunes",
         "email": "isabella@gmail.com",
         "password": "isabella",
@@ -949,11 +1185,13 @@
         "birthDate": "05/02/1982",
         "genrer": "Feminino",
         "cellphone": "976822054",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 34,
+          "idGrupo": 4,
           "name": "Carlene Ramos",
           "email": "carleneramos@zytrex.com",
           "password": "Lancaster",
@@ -962,10 +1200,12 @@
           "birthDate": "2015-04-09",
           "genrer": "Masculino",
           "cellphone": "(812) 589-2751",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 35,
+          "idGrupo": 4,
           "name": "Margret Cherry",
           "email": "margretcherry@zytrex.com",
           "password": "Hattie",
@@ -974,10 +1214,12 @@
           "birthDate": "2016-08-09",
           "genrer": "Feminino",
           "cellphone": "(898) 599-3395",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 36,
+          "idGrupo": 4,
           "name": "Gray Robinson",
           "email": "grayrobinson@zytrex.com",
           "password": "Christensen",
@@ -986,10 +1228,12 @@
           "birthDate": "2016-08-24",
           "genrer": "Masculino",
           "cellphone": "(864) 476-2010",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 37,
+          "idGrupo": 4,
           "name": "Frankie Gates",
           "email": "frankiegates@zytrex.com",
           "password": "Maggie",
@@ -998,10 +1242,12 @@
           "birthDate": "2019-10-02",
           "genrer": "Feminino",
           "cellphone": "(963) 415-3184",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 38,
+          "idGrupo": 4,
           "name": "Acevedo Justice",
           "email": "acevedojustice@zytrex.com",
           "password": "Angelica",
@@ -1010,10 +1256,12 @@
           "birthDate": "2019-12-07",
           "genrer": "Feminino",
           "cellphone": "(968) 501-3659",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 39,
+          "idGrupo": 4,
           "name": "Susana Dillard",
           "email": "susanadillard@zytrex.com",
           "password": "Marks",
@@ -1022,7 +1270,8 @@
           "birthDate": "2019-11-12",
           "genrer": "Masculino",
           "cellphone": "(950) 582-3793",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     },
@@ -1032,6 +1281,7 @@
       "imageUrl": "group-5.jpg",
       "guide": {
         "id": 4,
+        "idGrupo": 5,
         "name": "Manuella Souza",
         "email": "manuella@gmail.com",
         "password": "manuella",
@@ -1040,11 +1290,13 @@
         "birthDate": "05/02/1979",
         "genrer": "Feminino",
         "cellphone": "972544054",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 40,
+          "idGrupo": 5,
           "name": "Maureen Webb",
           "email": "maureenwebb@zytrex.com",
           "password": "Buckner",
@@ -1053,10 +1305,12 @@
           "birthDate": "2020-04-02",
           "genrer": "Masculino",
           "cellphone": "(937) 456-2474",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 41,
+          "idGrupo": 5,
           "name": "Elva Craig",
           "email": "elvacraig@zytrex.com",
           "password": "Castillo",
@@ -1065,10 +1319,12 @@
           "birthDate": "2016-12-07T10:44:22 +02:00",
           "genrer": "Masculino",
           "cellphone": "(871) 565-2913",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 42,
+          "idGrupo": 5,
           "name": "Rhea Nixon",
           "email": "rheanixon@zytrex.com",
           "password": "Leonor",
@@ -1077,10 +1333,12 @@
           "birthDate": "2019-11-05",
           "genrer": "Feminino",
           "cellphone": "(822) 494-3010",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 43,
+          "idGrupo": 5,
           "name": "Houston Holman",
           "email": "houstonholman@zytrex.com",
           "password": "Rowena",
@@ -1089,10 +1347,12 @@
           "birthDate": "2015-11-11T02:45:41 +02:00",
           "genrer": "Feminino",
           "cellphone": "(931) 463-2851",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 44,
+          "idGrupo": 5,
           "name": "Whitaker Kirby",
           "email": "whitakerkirby@zytrex.com",
           "password": "Corinne",
@@ -1101,7 +1361,8 @@
           "birthDate": "2015-12-18T11:18:52 +02:00",
           "genrer": "Feminino",
           "cellphone": "(840) 529-2890",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     },
@@ -1111,6 +1372,7 @@
       "imageUrl": "group-6.jpg",
       "guide": {
         "id": 3,
+        "idGrupo": 6,
         "name": "Lucas Silva",
         "email": "lucas@gmail.com",
         "password": "lucas",
@@ -1119,11 +1381,13 @@
         "birthDate": "15/08/1989",
         "genrer": "Masculino",
         "cellphone": "972843534",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 45,
+          "idGrupo": 6,
           "name": "Barker Acosta",
           "email": "barkeracosta@zytrex.com",
           "password": "Miranda",
@@ -1132,10 +1396,12 @@
           "birthDate": "2017-01-03T01:38:53 +02:00",
           "genrer": "Feminino",
           "cellphone": "(945) 584-2667",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 46,
+          "idGrupo": 6,
           "name": "Marjorie Carpenter",
           "email": "marjoriecarpenter@zytrex.com",
           "password": "Beatrice",
@@ -1144,10 +1410,12 @@
           "birthDate": "2020-09-12",
           "genrer": "Feminino",
           "cellphone": "(868) 413-3411",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 47,
+          "idGrupo": 6,
           "name": "Barnett Harding",
           "email": "barnettharding@zytrex.com",
           "password": "Ochoa",
@@ -1156,10 +1424,12 @@
           "birthDate": "2021-06-30",
           "genrer": "Masculino",
           "cellphone": "(846) 523-3643",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 48,
+          "idGrupo": 6,
           "name": "Tonia Mayer",
           "email": "toniamayer@zytrex.com",
           "password": "Bertie",
@@ -1168,10 +1438,12 @@
           "birthDate": "2015-05-31",
           "genrer": "Feminino",
           "cellphone": "(865) 567-2362",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 49,
+          "idGrupo": 6,
           "name": "Bryant Horton",
           "email": "bryanthorton@zytrex.com",
           "password": "Trina",
@@ -1180,10 +1452,12 @@
           "birthDate": "2016-11-08T01:57:52 +02:00",
           "genrer": "Feminino",
           "cellphone": "(828) 451-2669",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 50,
+          "idGrupo": 6,
           "name": "Cantrell Doyle",
           "email": "cantrelldoyle@zytrex.com",
           "password": "Lacy",
@@ -1192,10 +1466,12 @@
           "birthDate": "2018-05-04",
           "genrer": "Feminino",
           "cellphone": "(999) 501-3770",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 51,
+          "idGrupo": 6,
           "name": "Deanna Stone",
           "email": "deannastone@zytrex.com",
           "password": "Charity",
@@ -1204,10 +1480,12 @@
           "birthDate": "2019-02-16T10:18:49 +02:00",
           "genrer": "Feminino",
           "cellphone": "(962) 584-3695",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 52,
+          "idGrupo": 6,
           "name": "Cora Bryant",
           "email": "corabryant@zytrex.com",
           "password": "Knowles",
@@ -1216,10 +1494,12 @@
           "birthDate": "2022-04-02",
           "genrer": "Masculino",
           "cellphone": "(898) 518-2315",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 53,
+          "idGrupo": 6,
           "name": "Estela Cobb",
           "email": "estelacobb@zytrex.com",
           "password": "Aurelia",
@@ -1228,7 +1508,8 @@
           "birthDate": "2019-12-14",
           "genrer": "Feminino",
           "cellphone": "(947) 506-2571",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     },
@@ -1238,6 +1519,7 @@
       "imageUrl": "campos.jpg",
       "guide": {
         "id": 5,
+        "idGrupo": 7,
         "name": "Roberto Gomes",
         "email": "roberto@gmail.com",
         "password": "roberto",
@@ -1246,11 +1528,13 @@
         "birthDate": "05/02/1982",
         "genrer": "Masculino",
         "cellphone": "979842054",
-        "isAdmin": false
+        "isAdmin": false,
+        "isActive": true
       },
       "turists": [
         {
           "id": 9,
+          "idGrupo": 7,
           "name": "Robles Gay",
           "email": "roblesgay@zytrex.com",
           "password": "Cathleen",
@@ -1259,10 +1543,12 @@
           "birthDate": "2020-04-10",
           "genrer": "Feminino",
           "cellphone": "(909) 577-2699",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 10,
+          "idGrupo": 7,
           "name": "Hodge Brock",
           "email": "hodgebrock@zytrex.com",
           "password": "Graciela",
@@ -1271,10 +1557,12 @@
           "birthDate": "2019-10-02",
           "genrer": "Feminino",
           "cellphone": "(946) 503-3500",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 11,
+          "idGrupo": 7,
           "name": "Nadia Lopez",
           "email": "nadialopez@zytrex.com",
           "password": "Stefanie",
@@ -1283,10 +1571,12 @@
           "birthDate": "2021-07-05",
           "genrer": "Feminino",
           "cellphone": "(941) 420-3340",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 12,
+          "idGrupo": 7,
           "name": "Berger Marks",
           "email": "bergermarks@zytrex.com",
           "password": "Gordon",
@@ -1295,10 +1585,12 @@
           "birthDate": "2018-10-07",
           "genrer": "Masculino",
           "cellphone": "(900) 595-2455",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 13,
+          "idGrupo": 7,
           "name": "Conrad Sosa",
           "email": "conradsosa@zytrex.com",
           "password": "Gonzalez",
@@ -1307,10 +1599,12 @@
           "birthDate": "2016-08-03",
           "genrer": "Masculino",
           "cellphone": "(860) 525-3421",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 14,
+          "idGrupo": 7,
           "name": "Dorthy Boyd",
           "email": "dorthyboyd@zytrex.com",
           "password": "Ewing",
@@ -1319,10 +1613,12 @@
           "birthDate": "2022-02-15",
           "genrer": "Masculino",
           "cellphone": "(894) 529-3022",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 15,
+          "idGrupo": 7,
           "name": "Verna Anthony",
           "email": "vernaanthony@zytrex.com",
           "password": "Leanne",
@@ -1331,10 +1627,12 @@
           "birthDate": "2022-04-04",
           "genrer": "Feminino",
           "cellphone": "(834) 505-3107",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 16,
+          "idGrupo": 7,
           "name": "Cervantes Curry",
           "email": "cervantescurry@zytrex.com",
           "password": "Dixie",
@@ -1343,10 +1641,12 @@
           "birthDate": "2014-04-21",
           "genrer": "Feminino",
           "cellphone": "(950) 433-2847",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 17,
+          "idGrupo": 7,
           "name": "Gloria Yang",
           "email": "gloriayang@zytrex.com",
           "password": "Cecelia",
@@ -1355,10 +1655,12 @@
           "birthDate": "2016-08-08",
           "genrer": "Feminino",
           "cellphone": "(854) 514-2011",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         },
         {
           "id": 18,
+          "idGrupo": 7,
           "name": "Maxine Campbell",
           "email": "maxinecampbell@zytrex.com",
           "password": "Jefferson",
@@ -1367,7 +1669,8 @@
           "birthDate": "2018-04-08",
           "genrer": "Masculino",
           "cellphone": "(804) 462-3074",
-          "isAdmin": false
+          "isAdmin": false,
+          "isActive": true
         }
       ]
     }
@@ -1375,18 +1678,521 @@
   "locals": [
     {
       "id": 1,
-      "position": [
-        "-23.611487",
-        "-46.767867"
+      "idGrupo": 1,
+      "historics": [
+        {
+          "hist": [
+            [
+              41.8905,
+              12.4942
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8995,
+              12.4932
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8945,
+              12.4944
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8815,
+              12.4342
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8809,
+              12.4252
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8909,
+              12.4459
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8945,
+              12.4558
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8942,
+              12.4359
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8819,
+              12.4353
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              41.8839,
+              12.4919
+            ],
+            [
+              41.8710,
+              12.4442
+            ]
+          ]
+        }
       ],
-      "turist": {
-        "id": 2,
-        "document": "53702853804",
-        "name": "Davi",
-        "birthDate": "13/05/2000",
-        "genrer": "Masculino",
-        "cellphone": "9753423235"
-      },
+      "posicoes": [
+        [
+          41.8905,
+          12.4942
+        ],
+        [
+          41.8995,
+          12.4932
+        ],
+        [
+          41.8945,
+          12.4944
+        ],
+        [
+          41.8815,
+          12.4342
+        ],
+        [
+          41.8809,
+          12.4252
+        ],
+        [
+          41.8909,
+          12.4459
+        ],
+        [
+          41.8945,
+          12.4558
+        ],
+        [
+          41.8942,
+          12.4359
+        ],
+        [
+          41.8819,
+          12.4353
+        ],
+        [
+          41.8839,
+          12.4919
+        ],
+        [
+          41.8710,
+          12.4442
+        ]
+      ],
+      "date": "19h19-03/06/2022"
+    },
+    {
+      "id": 2,
+      "idGrupo": 2,
+      "historics": [
+        {
+          "hist": [
+            [
+              -2.80045,
+              -40.5122
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.80045,
+              -40.5102
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.791662,
+              -40.520247
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.797947,
+              -40.519324
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.793907,
+              -40.518552
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.791914,
+              -40.520526
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.791121,
+              -40.518842
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.794603,
+              -40.515858
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.795825,
+              -40.517253
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              -2.797366,
+              -40.514854
+            ],
+            [
+              -2.80045,
+              -40.5101
+            ]
+          ]
+        }
+      ],
+      "posicoes": [
+        [
+          -2.80045,
+          -40.5101
+        ],
+        [
+          -2.80045,
+          -40.5122
+        ],
+        [
+          -2.80045,
+          -40.5102
+        ],
+        [
+          -2.791662,
+          -40.520247
+        ],
+        [
+          -2.797947,
+          -40.519324
+        ],
+        [
+          -2.793907,
+          -40.518552
+        ],
+        [
+          -2.791914,
+          -40.520526
+        ],
+        [
+          -2.791121,
+          -40.518842
+        ],
+        [
+          -2.795825,
+          -40.517253
+        ],
+        [
+          -2.794603,
+          -40.515858
+        ],
+        [
+          -2.797366,
+          -40.514854
+        ]
+      ],
+      "date": "19h19-03/06/2022"
+    },
+    {
+      "id": 3,
+      "idGrupo": 3,
+      "historics": [
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.010133,
+              -118.496520
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.007572,
+              -118.499835
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.010507,
+              -118.493612
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.008355,
+              -118.495007
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.010214,
+              -118.498494
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.008493,
+              -118.491628
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.010198,
+              -118.493444
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.006684,
+              -118.493646
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.008850,
+              -118.494359
+            ]
+          ]
+        },
+        {
+          "hist": [
+            [
+              34.011503,
+              -118.494921
+            ],
+            [
+              34.015596,
+              -118.497014
+            ]
+          ]
+        }
+      ],
+      "posicoes": [
+        [
+          34.011503,
+          -118.494921
+        ],
+        [
+          34.010133,
+          -118.496520
+        ],
+        [
+          34.007572,
+          -118.499835
+        ],
+        [
+          34.010507,
+          -118.493612
+        ],
+        [
+          34.008355,
+          -118.495007
+        ],
+        [
+          34.010214,
+          -118.498494
+        ],
+        [
+          34.008493,
+          -118.491628
+        ],
+        [
+          34.010198,
+          -118.493444
+        ],
+        [
+          34.006684,
+          -118.493646
+        ],
+        [
+          34.008850,
+          -118.494359
+        ],
+        [
+          34.015596,
+          -118.497014
+        ]
+      ],
       "date": "19h19-03/06/2022"
     }
   ]
